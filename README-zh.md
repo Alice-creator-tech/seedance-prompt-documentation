@@ -546,7 +546,7 @@ https://github.com/user-attachments/assets/76a2b32a-a7c7-42f7-af08-ea7ddcf3fed9
 
 ## 8. 资源 (API 与使用指南)
 
-- [awesome-seedance-prompt](https://cdance.net)
+- [awesome-seedance-prompt](https://cdance.net/?utmsource=github_readme_zh_resources)
 
 ---
 

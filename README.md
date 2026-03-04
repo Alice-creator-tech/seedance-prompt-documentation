@@ -8,7 +8,7 @@
 
 This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X (Twitter), WeChat, and top prompt engineers. Whether you are looking for **cinematic transitions**, **character consistency**, or complex motion sequences, you will find the most effective inputs here to unlock the full potential of **Seedance AI**.
 
-### Sponsor: [awesome-seedance-prompt](https://cdance.net)
+### Sponsor: [awesome-seedance-prompt](https://cdance.net/?utmsource=github_readme_sponsor)
 
 ## 📖 Table of Contents
 
@@ -482,7 +482,7 @@ https://github.com/user-attachments/assets/ccf43991-7f39-4550-8845-4aff2cec3ed4
 
 ## 8. Resources
 
-- [awesome-seedance-prompt](https://cdance.net) - Seedance prompts and resources
+- [awesome-seedance-prompt](https://cdance.net/?utmsource=github_readme_resources) - Seedance prompts and resources
 
 
 ## 9. Contributing
