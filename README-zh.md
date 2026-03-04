@@ -546,9 +546,7 @@ https://github.com/user-attachments/assets/76a2b32a-a7c7-42f7-af08-ea7ddcf3fed9
 
 ## 8. 资源 (API 与使用指南)
 
-- [Seedance 官网](https://seedance.bytebase.com/)
-- [即梦 App 下载](https://www.doubao.com/)
-- [字节跳动 AI 视频生成文档](https://www.volcengine.com/docs/6791/1347778)
+- [awesome-seedance-prompt](https://cdance.net)
 
 ---
 
